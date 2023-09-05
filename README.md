@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsoj&label=Profile%20views&color=0e75b6&style=flat" alt="ahsoj" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🌱 I’m currently learning **Dart and Flutter Technologies**
 
 - 👨‍💻 All of my projects are available at [https://eyasuc.vercel.app](https://eyasuc.vercel.app)
@@ -14,6 +12,8 @@
 - 📫 How to reach me **eyasucc@gmail.com**
 
 - 📄 Know about my experiences [https://eyasuc.vercel.app/resume.pdf](https://eyasuc.vercel.app/resume.pdf)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
